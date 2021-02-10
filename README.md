@@ -18,13 +18,13 @@ Screenshots
 --------------
 ![image](https://github.com/Vikram-Choudhary/task-master/blob/main/ScreenShots/screenshot1.PNG)
 --------------
-![image](https://github.com/Vikram-Choudhary/task-master/blob/main/ScreenShots/screenshot2.JPG)
+![image](https://github.com/Vikram-Choudhary/task-master/blob/main/ScreenShots/screenshot2.PNG)
 --------------
-![image](https://github.com/Vikram-Choudhary/task-master/blob/main/ScreenShots/screenshot3.JPG)
+![image](https://github.com/Vikram-Choudhary/task-master/blob/main/ScreenShots/screenshot3.PNG)
 --------------
-![image](https://github.com/Vikram-Choudhary/task-master/blob/main/ScreenShots/screenshot4.JPG)
+![image](https://github.com/Vikram-Choudhary/task-master/blob/main/ScreenShots/screenshot4.PNG)
 --------------
-![image](https://github.com/Vikram-Choudhary/task-master/blob/main/ScreenShots/screenshot5.JPG)
+![image](https://github.com/Vikram-Choudhary/task-master/blob/main/ScreenShots/screenshot5.PNG)
 
 # How to run the project?
 To run this project, go through the following steps:
