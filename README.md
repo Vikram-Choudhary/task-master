@@ -8,8 +8,8 @@
 
 Task Master is web application made using PHP and MySQL.
 
-Aplication uses admin and user login, following are the credentials:
-Admin login --> email id: admin@admin.com , password: Admin@123
+Aplication uses admin and user login, following are the credentials:</br>
+Admin login --> email id: admin@admin.com , password: Admin@123</br>
 User login --> email id: user1@user.com , password: User1@123
 
 # Basic Overview
