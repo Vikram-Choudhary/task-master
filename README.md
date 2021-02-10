@@ -25,8 +25,20 @@ Screenshots
 ![image](https://github.com/Vikram-Choudhary/Geolocation-weather/blob/master/ScreenShots/nightCloud.JPG)
 
 # How to run the project?
-To run this project, follow the setp's:
-*1.*installed a virtual server i.e XAMPP on your PC (for Windows).
+To run this project, go through the following steps:
+
+1. Install virtual server i.e `XAMPP` on your PC (for Windows).
+2. Clone the repo in `/xampp/htdocs/` folder loaction.
+3. Run the `XAMPP` server and start `Apache` and `MySQL` service.
+4.  Open a browser and go to URL `http://localhost/phpmyadmin/`.
+5. Create a database naming `tasker` and then click on the import tab.
+6. Click on browse file and select `tasker.sql` file from the cloned repo.
+7. Click on go.
+8. Open a browser and go to URL `http://localhost/Tasker/`.
+
+Note: 
+* For admin login, email:  admin@admin.com and password: Admin@123
+* For user login, email:   user1@user.com and password: User1@123
 
  # Contacts
 Feel free to ask me whatever you want. Stay tuned for more awesome projects :kissing_heart: . Follow me or Connect me via <a href="https://www.linkedin.com/in/choudhary-vikram/">Linkedin<a/>
