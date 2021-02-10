@@ -16,13 +16,15 @@ User login --> email id: user1@user.com , password: User1@123
 This Task Managing System is in PHP, CSS, JavaScript, and bootstrap. Talking about the features of this system, it contains both the admin section and the user section. The admin, can log in to assign tasks and manage the task status. The user, can log in to update task status and can also request for deadline extension. The design of this project is pretty simple so that the user won’t find any difficulties while working on it.
 Screenshots
 --------------
-![image](https://github.com/Vikram-Choudhary/Geolocation-weather/blob/master/ScreenShots/rain.JPG)
+![image](https://github.com/Vikram-Choudhary/Geolocation-weather/blob/master/ScreenShots/screenshot1.JPG)
 --------------
-![image](https://github.com/Vikram-Choudhary/Geolocation-weather/blob/master/ScreenShots/snow.JPG)
+![image](https://github.com/Vikram-Choudhary/Geolocation-weather/blob/master/ScreenShots/screenshot2.JPG)
 --------------
-![image](https://github.com/Vikram-Choudhary/Geolocation-weather/blob/master/ScreenShots/clearSky.JPG)
+![image](https://github.com/Vikram-Choudhary/Geolocation-weather/blob/master/ScreenShots/screenshot3.JPG)
 --------------
-![image](https://github.com/Vikram-Choudhary/Geolocation-weather/blob/master/ScreenShots/nightCloud.JPG)
+![image](https://github.com/Vikram-Choudhary/Geolocation-weather/blob/master/ScreenShots/screenshot4.JPG)
+--------------
+![image](https://github.com/Vikram-Choudhary/Geolocation-weather/blob/master/ScreenShots/screenshot5.JPG)
 
 # How to run the project?
 To run this project, go through the following steps:
@@ -34,7 +36,7 @@ To run this project, go through the following steps:
 5. Create a database naming `tasker` and then click on the import tab.
 6. Click on browse file and select `tasker.sql` file from the cloned repo.
 7. Click on go.
-8. Open a browser and go to URL `http://localhost/Tasker/`.
+8. Open a browser and go to URL `http://localhost/Task-Master/login.php/`.
 
 Note: 
 * For admin login, email:  admin@admin.com and password: Admin@123
